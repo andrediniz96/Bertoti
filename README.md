@@ -24,3 +24,4 @@ Aumentar medidas de segurança no software ou facilitar a experiência do usuár
 ## 4 - Classes UML
 ## 5 - Java
 ## 6 - Teste 
+## 7 - SQLITE
