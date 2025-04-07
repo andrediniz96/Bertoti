@@ -22,6 +22,9 @@ Escolher entre um código altamente otimizado para performance ou um código mai
 Aumentar medidas de segurança no software ou facilitar a experiência do usuário. Mais segurança pode tornar o sistema mais confiável, mas pode adicionar fricção para os usuários. Por outro lado, facilitar o uso pode aumentar a adoção do sistema, mas pode expor vulnerabilidades.
 
 ## 4 - Classes UML
+
+![image](https://github.com/user-attachments/assets/7297f8c0-8af2-42e6-97cd-b204bb8deede)
+
 ## 5 - Java
 ## 6 - Teste 
 ## 7 - SQLITE
